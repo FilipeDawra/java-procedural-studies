@@ -1,2 +1,2 @@
 # java-procedural-studies
-Exercícios e exemplos em Java (procedural)
+Exercises and examples in Java (Procedural)
